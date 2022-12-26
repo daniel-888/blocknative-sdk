@@ -1,0 +1,16 @@
+{
+  "name": "blocknative-sdk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/daniel-888/blocknative-sdk.git",
+  "author": "daniel-888 <mikecryptodev05615@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "bnc-sdk": "^4.6.3",
+    "web3": "^1.8.1",
+    "ws": "^8.11.0"
+  }
+}
